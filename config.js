@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "写给王玥大宝贝的告白",
+    introTitle: '玥玥大baby',
+    introDesc: `今夜星光闪闪，爱你的心满满,
+    btnIntro: '💌 打开告白',
+    title: '是不是第一眼就心动啦 🥰 🥰',
+    desc: '是不是看到我的笑容就沦陷啦 ',
+    btnYes: '超喜欢 <33',
+    btnNo: '才没有 :3',
+    question: '全世界那么多人，为什么偏偏喜欢我 <3',
+    btnReply: '发送心意 <3',
+    reply: '喜欢就是喜欢，没有理由',
+    mess: '我早就知道啦 🥰. 超爱你的 😘😘',
+    messDesc: '快点见面好不好.💘',
+    btnAccept: '好耶好耶 <3',
+    messLink: 'https://raw.githubusercontent.com/lwei37025-cyber/confess-crush/main/img/cuteCat.jpg' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
